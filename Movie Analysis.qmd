@@ -1,6 +1,0 @@
----
-title: "Movie Analysis"
-Author: Romy Bos
-format: html
----
-
